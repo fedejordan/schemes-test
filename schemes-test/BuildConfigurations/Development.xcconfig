@@ -1,0 +1,5 @@
+#include "Common.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.fedejordan.schemes-test-development
+BUNDLE_DISPLAY_NAME = STDevelopment
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG

@@ -1,0 +1,5 @@
+#include "Common.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.fedejordan.schemes-test
+BUNDLE_DISPLAY_NAME = STProduction
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = RELEASE
